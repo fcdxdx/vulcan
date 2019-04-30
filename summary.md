@@ -1,4 +1,5 @@
  * [Introduction](README.md)
-  * [ioc-统一资源加载策略](ioc/ioc-统一资源加载策略.md)
-      * [检索实操](ch0/RepSearchPractice.md)
+  * [spring](ioc)
+      * [ioc-统一资源加载策略](ioc/ioc-统一资源加载策略.md)
+      * [IOC 之 加载 Bean](IOC 之 加载 Bean.md)
 
