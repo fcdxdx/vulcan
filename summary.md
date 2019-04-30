@@ -1,4 +1,4 @@
  * [Introduction](README.md)
-  * [预备周：基于认知科学的信息训练法](ch0/preface.md)
+  * [ioc-统一资源加载策略](ioc/统一资源加载策略.md)
       * [检索实操](ch0/RepSearchPractice.md)
 
